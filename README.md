@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Abdalrahman-Muhammad
-- 👀 I’m interested in Software Engineering , Full stack web development using MERN / MEAN
-- 🌱 I’m currently a student in information technology institue (iti) 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Software Engineering , Full stack web development using MERN / MEAN
 - 📫 How to reach me abdelrhmanmohamed421@gmail.com
 
 <!---
