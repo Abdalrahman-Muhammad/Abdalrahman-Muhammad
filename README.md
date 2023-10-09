@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="linkedin.com/in/engabdalrahamanmuhammad/" target="_blank"><img src="https://img.shields.io/badge/-Abdalrhman%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdalrhamanmuhammad/" target="_blank"><img src="https://img.shields.io/badge/-Abdalrhman%20Muhammad-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
